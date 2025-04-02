@@ -21,7 +21,7 @@ Follow these steps to set up and run the project:
     ```
 
 ## Running the Application
-1. Start the Application
+1. Build the Application
     ```bash
     npm run build
     ```
